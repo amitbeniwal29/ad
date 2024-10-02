@@ -1,0 +1,1 @@
+powershell -ep bypass #To launch a new powershell session to execute scripts and commands without restriction
